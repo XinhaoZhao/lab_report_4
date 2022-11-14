@@ -1,5 +1,6 @@
 1. The sequence I came up with:  
-:%s/start/base/g (16 presses)  
+
+`:%s/start/base/g `(16 presses)  
 
 img:  
 1, ![image](https://i.imgur.com/H3jdLgB.png)  
