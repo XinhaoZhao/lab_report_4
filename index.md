@@ -3,8 +3,8 @@
 `:%s/start/base/g `(16 presses)  
 
 img:  
-1, ![image](https://i.imgur.com/H3jdLgB.png)  
-2, ![image](https://i.imgur.com/DduSBTm.png)  
+![image](https://i.imgur.com/H3jdLgB.png)  
+![image](https://i.imgur.com/DduSBTm.png)  
 
 2. For the first one, it took me about 3 minutes to finish the task. For the second one, it took me 5 minutes. For the second strategy, my vim  
 freezes for some reason and I had to restart the whole process.
