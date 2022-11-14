@@ -1,4 +1,4 @@
-1. The sequence I came up with:
+1. The sequence I came up with:  
 :%s/start/base/g (16 presses)  
 
 img:  
